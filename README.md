@@ -14,6 +14,7 @@ here is the demonstation
 
 
 I got idea from 
-[https://www.youtube.com/watch?v=3JpnyF0agxY](https://dev.to/yankee/deploy-your-serverless-python-function-locally-with-openfaas-in-kubernetes-18jf)
+https://dev.to/yankee/deploy-your-serverless-python-function-locally-with-openfaas-in-kubernetes-18jf
+
 
 
