@@ -1,19 +1,16 @@
 # Implementing local Serverless functions deployment (Kubernetes + openfaas)
 
-Steps:
+I have hosted a simple python program in to openfaas platform using Kubernetes. 
 
-1. Install cli tools
-2. Setup local k8s clusters
-3. Enable insecure registries
-4. Install Openfaas in k8s
-5. Function Templates
-6. Create Dictionary function
-7. Setup Manifest
-8. Faas Cli secret configuration
-9. Testing Dictionary Function
-10. Create Google Translator function
-11. Deploy Translator function
-12. Metrics with Promethus.
+The python code take input as text and append  " printed in Open FaaS" in the end. 
+
+Then I demonstated the function in openfaas and also a sample matric in Promethus platform.
+
+here is the demonstation
+
+ https://youtu.be/M9ZnSfc6uus 
+ 
+ 
 
 
 I got idea from https://www.youtube.com/watch?v=3JpnyF0agxY
