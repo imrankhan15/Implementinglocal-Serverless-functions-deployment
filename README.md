@@ -16,5 +16,5 @@ here is the demonstation
 I got idea from 
 https://dev.to/yankee/deploy-your-serverless-python-function-locally-with-openfaas-in-kubernetes-18jf
 
-
+Special thanks to University of Bamberg, where I have learnt the basics of these technologies.
 
