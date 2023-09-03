@@ -11,9 +11,10 @@ Then I demonstated the function in openfaas and also a sample matric in Promethu
  https://youtu.be/M9ZnSfc6uus 
  
 2. up method for faas-cli
+3. 
 https://www.youtube.com/watch?v=8hfCwS1bG5Y&t=12s&ab_channel=MuhammadFaisalImranKhan
 
-3. test, deploy, update
+4. test, deploy, update
 
 https://www.youtube.com/watch?v=M6Mfh89AWeE&t=8s&ab_channel=MuhammadFaisalImranKhan
 
