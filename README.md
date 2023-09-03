@@ -6,12 +6,16 @@ The python code take input as text and append  " printed in Open FaaS" in the en
 
 Then I demonstated the function in openfaas and also a sample matric in Promethus platform.
 
-here is the demonstation
+1. here is the demonstation
 
  https://youtu.be/M9ZnSfc6uus 
  
- 
+2. up method for faas-cli
+https://www.youtube.com/watch?v=8hfCwS1bG5Y&t=12s&ab_channel=MuhammadFaisalImranKhan
 
+3. test, deploy, update
+
+https://www.youtube.com/watch?v=M6Mfh89AWeE&t=8s&ab_channel=MuhammadFaisalImranKhan
 
 I got idea from 
 https://dev.to/yankee/deploy-your-serverless-python-function-locally-with-openfaas-in-kubernetes-18jf
